@@ -3,12 +3,12 @@
 <h2></h2> Numerical Method Projects (mostly solving quantum mechanics problems):</h2>
 
 https://github.com/meowmeownal/Numerical-Method-Physics.git
-- <b> Solving Schrodinger equation with shooting method</b>
-- <b> Solving Schrodinger equation with finite difference method</b>
-- <b> Crank-Nicolson method for Schordinger equation </b>
-- <b> Particle in potential barrier </b>
+- <b> Solving Schrodinger equation with shooting method (Python) </b>
+- <b> Solving Schrodinger equation with finite difference method (Python) </b>
+- <b> Crank-Nicolson method for Schordinger equation (Python) </b>
+- <b> Particle in potential barrier (Python) </b>
 - <b> Single-electron quantum dot problem (C++) </b>
-- <b> Bose-Einstein Condensate interference https://github.com/meowmeownal/Solving-BEC-interference
+- <b> Bose-Einstein Condensate interference (C++) https://github.com/meowmeownal/Solving-BEC-interference <b>
 
 <h2></h2> Physics of complex systems Projects:</h2> 
 
