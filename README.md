@@ -10,12 +10,13 @@ https://github.com/meowmeownal/Numerical-Method-Physics.git
 - <b> Single-electron quantum dot problem (C++) </b>
 - <b> Bose-Einstein Condensate interference (C++) https://github.com/meowmeownal/Solving-BEC-interference <b>
 
-<h2></h2> Physics of complex systems Projects:</h2> 
+<h2></h2> Physics of complex and dynamical systems Projects:</h2> 
 
 https://github.com/meowmeownal/complex-systems.git 
 - <b> cellular automata </b>
 - <b> population dynamics </b>
 - <b> site percolation on a square lattice </b>
+- <b> Solving van der Pol oscillator with gsl <b>
 
 <h2></h2> Monte Carlo Simulations:</h2>
 
