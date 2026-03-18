@@ -1,4 +1,7 @@
 <h1>Hello! My name is Natalia! Here are some projects i did during my studies :)
+  
+<h2></h2> Hopfiled Neural Network (of fractional order) on CPU, MCU (and hopefuly FPGA soon) :</h2>
+https://github.com/meowmeownal/Hopfield_Masters
 
 <h2></h2> Numerical Method Projects (mostly solving quantum mechanics problems):</h2>
 
