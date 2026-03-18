@@ -1,6 +1,6 @@
-<h1>Hello! My name is Natalia!
+<h1>Hello! My name is Natalia! Here are some projects i did during my studies :)
 
-<h2></h2> Numerical Method Projects:</h2>
+<h2></h2> Numerical Method Projects (mostly solving quantum mechanics problems):</h2>
 
 https://github.com/meowmeownal/Numerical-Method-Physics.git
 - <b> Solving Schrodinger equation with shooting method</b>
