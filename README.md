@@ -8,6 +8,7 @@ https://github.com/meowmeownal/Numerical-Method-Physics.git
 - <b> Crank-Nicolson method for Schordinger equation </b>
 - <b> Particle in potential barrier </b>
 - <b> Single-electron quantum dot problem (C++) </b>
+- <b> Bose-Einstein Condensate interference https://github.com/meowmeownal/Solving-BEC-interference
 
 <h2></h2> Physics of complex systems Projects:</h2> 
 
