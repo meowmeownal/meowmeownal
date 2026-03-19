@@ -3,8 +3,8 @@
 <h2></h2> Hopfiled Neural Network (of fractional order) on CPU, MCU (and hopefuly FPGA soon) :</h2>
 
 https://github.com/meowmeownal/Hopfield_Masters
-- <b> Implementation of HNN <b>
-- <b> Analysis of neurons dynamic: time evolution, phase portraits, FFT test <b>
+- <b> Implementation of HNN (C) <b> 
+- <b> Analysis of neurons dynamic: time evolution, phase portraits, FFT test (Python) <b>
 
 <h2></h2> Numerical Method Projects (mostly solving quantum mechanics problems):</h2>
 
@@ -19,17 +19,17 @@ https://github.com/meowmeownal/Numerical-Method-Physics.git
 <h2></h2> Physics of complex and dynamical systems Projects:</h2> 
 
 https://github.com/meowmeownal/complex-systems.git 
-- <b> Cellular automata </b>
-- <b> Population dynamics </b>
-- <b> Site percolation on a square lattice </b>
-- <b> Solving van der Pol oscillator with gsl <b>
-- <b> Spin glass <b>
-- <b> PageRank Algorithm <b>
-- <b> Random Walk <b>
+- <b> Cellular automata (C++) </b>
+- <b> Population dynamics (C++)</b>
+- <b> Site percolation on a square lattice (C++)</b>
+- <b> Solving van der Pol oscillator with gsl (C++)<b>
+- <b> Spin glass (C++)<b>
+- <b> PageRank Algorithm (C++)<b>
+- <b> Random Walk (C++)<b>
 
 <h2></h2> Monte Carlo Simulations:</h2>
 
 https://github.com/meowmeownal/Monte-Carlo.git
-- <b> Pseudorandom number generators with a given distribution in one dimension </b>
-- <b> Pseudorandom number generators – correlated distributions in 2D </b>
-- <b> Monte Carlo: basic integration with variance estimation </b>
+- <b> Pseudorandom number generators with a given distribution in one dimension (C++)</b>
+- <b> Pseudorandom number generators – correlated distributions in 2D (C++)</b>
+- <b> Monte Carlo: basic integration with variance estimation (C++) </b>
