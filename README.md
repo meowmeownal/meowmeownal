@@ -19,10 +19,13 @@ https://github.com/meowmeownal/Numerical-Method-Physics.git
 <h2></h2> Physics of complex and dynamical systems Projects:</h2> 
 
 https://github.com/meowmeownal/complex-systems.git 
-- <b> cellular automata </b>
-- <b> population dynamics </b>
-- <b> site percolation on a square lattice </b>
+- <b> Cellular automata </b>
+- <b> Population dynamics </b>
+- <b> Site percolation on a square lattice </b>
 - <b> Solving van der Pol oscillator with gsl <b>
+- <b> Spin glass <b>
+- <b> PageRank Algorithm <b>
+- <b> Random Walk <b>
 
 <h2></h2> Monte Carlo Simulations:</h2>
 
