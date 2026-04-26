@@ -3,7 +3,9 @@
 <h2></h2> Hopfiled Neural Network (of fractional order) on CPU, MCU (and hopefuly FPGA soon) :</h2>
 
 https://github.com/meowmeownal/Hopfield_Masters
+
 https://github.com/meowmeownal/FPGA_hopfield/tree/main
+
 - <b> Implementation of HNN (C) <b> 
 - <b> Analysis of neurons dynamic: time evolution, phase portraits, FFT test (Python) <b>
 
