@@ -8,6 +8,7 @@ https://github.com/meowmeownal/FPGA_hopfield/tree/main
 
 - <b> Implementation of HNN (C) <b> 
 - <b> Analysis of neurons dynamic: time evolution, phase portraits, FFT test (Python) <b>
+- <b> Implementation of HNN (SystemVerilog) <b>
 
 <h2></h2> Numerical Method Projects (mostly solving quantum mechanics problems):</h2>
 
