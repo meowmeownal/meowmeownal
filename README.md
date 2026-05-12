@@ -1,4 +1,5 @@
 <h1>Hello! My name is Natalia! Here are some projects i did during my studies :)
+<h2></h2> My Linkedin profile: https://www.linkedin.com/in/natalia-bara%C5%84ska-571591406/</h2>
   
 <h2></h2> Hopfiled Neural Network (of fractional order) on CPU, MCU (and hopefuly FPGA soon) :</h2>
 
